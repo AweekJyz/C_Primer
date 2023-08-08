@@ -1,0 +1,5 @@
+﻿  print1_3_2.c
+E:\AWEEK\Code\C\C_Primer\Section_03\print1\print1_3_2.c(11,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\AWEEK\Code\C\C_Primer\Section_03\print1\print1_3_2.c(11,12): message : 占位符和其参数预计 3 可变参数，但提供的却是 1 参数
+E:\AWEEK\Code\C\C_Primer\Section_03\print1\print1_3_2.c(11,12): message : 缺失的可变参数 2 为格式字符串“%d”所需
+  print1.vcxproj -> E:\AWEEK\Code\C\C_Primer\Section_03\print1\x64\Debug\print1.exe

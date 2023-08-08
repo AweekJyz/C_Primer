@@ -1,0 +1,6 @@
+﻿  other_main.c
+  platinum_3_1.c
+E:\AWEEK\Code\C\C_Primer\Section_03\platinum_3_1.c(16,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\AWEEK\Code\C\C_Primer\Section_03\platinum_3_1.c(21,2): warning C4013: “print”未定义；假设外部返回 int
+E:\AWEEK\Code\C\C_Primer\Section_03\platinum_3_1.c(23,2): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+  正在生成代码...
