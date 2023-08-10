@@ -1,0 +1,4 @@
+﻿  windth.c
+E:\AWEEK\Code\C\C_Primer\Section_04\4.7-4.10_修饰符\windth.c(5,1): warning C4005: “PAGES”: 宏重定义
+E:\AWEEK\Code\C\C_Primer\Section_04\4.7-4.10_修饰符\windth.c(3,1): message : 参见“PAGES”的前一个定义
+  4.7-4.10_修饰符.vcxproj -> E:\AWEEK\Code\C\C_Primer\Section_04\4.7-4.10_修饰符\x64\Debug\4.7-4.10_修饰符.exe
