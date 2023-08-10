@@ -1,0 +1,6 @@
+﻿  showf_pt.c
+E:\AWEEK\Code\C\C_Primer\Section_03\3.7_showf_pt\showf_pt.c(22,18): warning C4305: “=”: 从“double”到“float”截断
+E:\AWEEK\Code\C\C_Primer\Section_03\3.7_showf_pt\showf_pt.c(23,8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\AWEEK\Code\C\C_Primer\Section_03\3.7_showf_pt\showf_pt.c(6,8): warning C4305: “初始化”: 从“double”到“float”截断
+E:\AWEEK\Code\C\C_Primer\Section_03\3.7_showf_pt\showf_pt.c(15,8): warning C4305: “初始化”: 从“double”到“float”截断
+  3.7_showf_pt.vcxproj -> E:\AWEEK\Code\C\C_Primer\Section_03\3.7_showf_pt\x64\Debug\3.7_showf_pt.exe

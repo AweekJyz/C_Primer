@@ -1,0 +1,6 @@
+﻿  print2.c
+E:\AWEEK\Code\C\C_Primer\Section_03\3.4_print2\print2.c(13,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 2 拥有了类型“__int64”
+E:\AWEEK\Code\C\C_Primer\Section_03\3.4_print2\print2.c(13,9): message : 请考虑在格式字符串中使用“%lld”
+E:\AWEEK\Code\C\C_Primer\Section_03\3.4_print2\print2.c(13,9): message : 请考虑在格式字符串中使用“%Id”
+E:\AWEEK\Code\C\C_Primer\Section_03\3.4_print2\print2.c(13,9): message : 请考虑在格式字符串中使用“%I64d”
+  3.4_print2.vcxproj -> E:\AWEEK\Code\C\C_Primer\Section_03\3.4_print2\x64\Debug\3.4_print2.exe
