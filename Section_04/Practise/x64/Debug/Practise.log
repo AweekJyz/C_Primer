@@ -1,0 +1,8 @@
+﻿  practise.c
+E:\AWEEK\Code\C\C_Primer\Section_04\Practise\practise.c(44,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\AWEEK\Code\C\C_Primer\Section_04\Practise\practise.c(96,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\AWEEK\Code\C\C_Primer\Section_04\Practise\practise.c(97,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\AWEEK\Code\C\C_Primer\Section_04\Practise\practise.c(109,8): warning C4305: “初始化”: 从“double”到“float”截断
+E:\AWEEK\Code\C\C_Primer\Section_04\Practise\practise.c(120,14): warning C4305: “初始化”: 从“double”到“const float”截断
+E:\AWEEK\Code\C\C_Primer\Section_04\Practise\practise.c(120,30): warning C4305: “初始化”: 从“double”到“const float”截断
+  Practise.vcxproj -> E:\AWEEK\Code\C\C_Primer\Section_04\Practise\x64\Debug\Practise.exe
