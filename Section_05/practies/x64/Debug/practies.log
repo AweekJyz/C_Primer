@@ -1,0 +1,8 @@
+﻿  practies.c
+E:\AWEEK\Code\C\C_Primer\Section_05\practies\practies.c(97,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\AWEEK\Code\C\C_Primer\Section_05\practies\practies.c(98,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\AWEEK\Code\C\C_Primer\Section_05\practies\practies.c(158,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\AWEEK\Code\C\C_Primer\Section_05\practies\practies.c(158,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\AWEEK\Code\C\C_Primer\Section_05\practies\practies.c(158,28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\AWEEK\Code\C\C_Primer\Section_05\practies\practies.c(186,3): warning C4013: “Temperatures”未定义；假设外部返回 int
+  practies.vcxproj -> E:\AWEEK\Code\C\C_Primer\Section_05\practies\x64\Debug\practies.exe
