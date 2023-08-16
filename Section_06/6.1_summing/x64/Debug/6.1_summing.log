@@ -1,0 +1,3 @@
+﻿  summing.c
+E:\AWEEK\Code\C\C_Primer\Section_06\6.1_summing\summing.c(10,6): warning C4101: “status”: 未引用的局部变量
+  6.1_summing.vcxproj -> E:\AWEEK\Code\C\C_Primer\Section_06\6.1_summing\x64\Debug\6.1_summing.exe
