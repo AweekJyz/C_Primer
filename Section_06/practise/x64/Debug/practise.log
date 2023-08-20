@@ -1,0 +1,6 @@
+﻿  practise.c
+D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(212,42): warning C4013: “strlen”未定义；假设外部返回 int
+D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(212,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(212,9): message : 请考虑在格式字符串中使用“%d”
+D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(212,9): message : 请考虑在格式字符串中使用“%I32d”
+  practise.vcxproj -> D:\Aweek\Code\C\C_Primer\Section_06\practise\x64\Debug\practise.exe

@@ -1,0 +1,4 @@
+﻿  practise.c
+D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(334,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(350,9): warning C4101: “sum”: 未引用的局部变量
+  practise.vcxproj -> D:\Aweek\Code\C\C_Primer\Section_06\practise\Debug\practise.exe
