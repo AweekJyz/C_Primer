@@ -20,7 +20,7 @@ int fun_13(void);
 int fun_13(void);
 int fun_14(void);
 int fun_15(void);
-int fun_16(void);
+int fun_16(void);//单利复利
 int fun_17(void);
 int fun_18(void);
 		
@@ -390,14 +390,65 @@ int fun_15(void)
 }
 int fun_16(void)
 {
+#define PRIN 100 //本金
+#define SIM 0.1	//单利
+#define COM 0.05	//复利
+	double simple_interest, compound_interest = 1;	//单利和复利
+	int i;
+	float time;
+
+	printf("请输入你要存入的年数: ");
+	while(scanf("%f", &time) == 1)
+	{
+		simple_interest = PRIN * (1 + SIM * time);
+		compound_interest = PRIN * pow(1 + COM, time);
+		/*for (i = 0; i <= time; i++)
+			compound_interest = PRIN * pow(1 + COM, i);*/		//看自己代码看笑了
+		printf("simple interest = %lf, compound interest = %lf\n", simple_interest, compound_interest);
+		printf("请再次输入你要存入的年数: ");
+		while (getchar() != '\n');
+	}
+	printf("已退出!\n");
+
+	for (time = 2, simple_interest = PRIN * (1 + SIM), compound_interest = PRIN * pow(1 + COM, 1); 
+		simple_interest >= compound_interest; time++)
+	{
+		simple_interest = PRIN * (1 + SIM * time);
+		compound_interest = PRIN * pow(1 + COM, time);
+	}
+	printf("Deirdre的投资额超过Daphne的时间为%f年\n", time - 1);
+	printf("Deirdre = %f, Daphne = %f\n\n", simple_interest, compound_interest);
 
 	return 0;
 }
 int fun_17(void)
 {
+#define COM 0.08
+	double total = 1000000;
+	int year;
+
+	for (year = 0; total > 0; year++)
+	{
+		total *= (1 + COM);
+		total -= 100000;
+	}
+	printf("需要%d年取完账户所有的钱\n\n", year);
+
 	return 0;
 }
 int fun_18(void)
 {
+#define DUNBAR_NUMBER 150 //Dunbar's number
+#define X_0 5 //一开始有5个朋友
+	int friend = X_0, week;
+
+	for (week = 1; friend <= DUNBAR_NUMBER; week++) 
+	{
+		friend -= week;
+		friend *= 2;
+		printf("Rabnud博士第%d周有%d个朋友. \n", week, friend);
+	}
+	printf("第%d周朋友数量超过%d个. \n", week - 1, DUNBAR_NUMBER);
+
 	return 0;
 }

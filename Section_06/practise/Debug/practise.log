@@ -1,4 +1,7 @@
 ﻿  practise.c
 D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(334,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
 D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(350,9): warning C4101: “sum”: 未引用的局部变量
+D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(397,6): warning C4101: “i”: 未引用的局部变量
+D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(426,1): warning C4005: “COM”: 宏重定义
+D:\Aweek\Code\C\C_Primer\Section_06\practise\practise.c(395,1): message : 参见“COM”的前一个定义
   practise.vcxproj -> D:\Aweek\Code\C\C_Primer\Section_06\practise\Debug\practise.exe
