@@ -1,0 +1,6 @@
+####Hello World!#####
+第一次用文件输入输出, 有点小激动
+哈哈哈哈哈v
+hahahahah
+printf("%d World", int);
+return 0;

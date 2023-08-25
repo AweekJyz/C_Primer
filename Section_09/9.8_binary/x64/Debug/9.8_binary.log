@@ -1,0 +1,4 @@
+﻿  binary.c
+D:\Aweek\Code\C\C_Primer\Section_09\9.8_binary\binary.c(31,2): warning C4033: “to_binary”必须返回值
+D:\Aweek\Code\C\C_Primer\Section_09\9.8_binary\binary.c(32): warning C4716: “to_binary”: 必须返回一个值
+  9.8_binary.vcxproj -> D:\Aweek\Code\C\C_Primer\Section_09\9.8_binary\x64\Debug\9.8_binary.exe

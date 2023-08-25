@@ -1,0 +1,2 @@
+Enter text to be analyzed (^Z to terminate): 
+characters = 248, words = 37, lines = 8, partial lines = 1

@@ -1,0 +1,5 @@
+﻿  lethead.c
+D:\Aweek\Code\C\C_Primer\Section_09\9.1_lethead\lethead.c(19,48): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Aweek\Code\C\C_Primer\Section_09\9.1_lethead\lethead.c(22,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Aweek\Code\C\C_Primer\Section_09\9.1_lethead\lethead.c(26,45): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  9.1_lethead.vcxproj -> D:\Aweek\Code\C\C_Primer\Section_09\9.1_lethead\x64\Debug\9.1_lethead.exe
