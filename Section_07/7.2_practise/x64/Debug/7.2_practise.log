@@ -1,9 +1,0 @@
-﻿  charAscii.c
-D:\Aweek\Code\C\C_Primer\Section_07\7.2_practise\charAscii.c(7,2): warning C4013: “printf”未定义；假设外部返回 int
-D:\Aweek\Code\C\C_Primer\Section_07\7.2_practise\charAscii.c(8,15): warning C4013: “getchar”未定义；假设外部返回 int
-  oddAverage.c
-D:\Aweek\Code\C\C_Primer\Section_07\7.2_practise\oddAverage.c(10,2): warning C4013: “printf”未定义；假设外部返回 int
-D:\Aweek\Code\C\C_Primer\Section_07\7.2_practise\oddAverage.c(11,2): warning C4013: “scanf”未定义；假设外部返回 int
-D:\Aweek\Code\C\C_Primer\Section_07\7.2_practise\oddAverage.c(45,9): warning C4013: “getchar”未定义；假设外部返回 int
-  正在生成代码...
-  7.2_practise.vcxproj -> D:\Aweek\Code\C\C_Primer\Section_07\7.2_practise\x64\Debug\7.2_practise.exe
