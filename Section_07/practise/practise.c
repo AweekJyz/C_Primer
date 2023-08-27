@@ -1,6 +1,7 @@
 // pratise -- 条件分支语句的练习
 #include "practise.h"
 #include <stdio.h>
+#include <string.h>
 
 int main(void)
 {
@@ -44,31 +45,31 @@ int main(void)
 			break;
 		case 4:
 			printf("第四题\n");
-
+			replace();
 			break;
 		case 5:
 			printf("第五题\n");
-
+			replace_switch();
 			break;
 		case 6:
 			printf("第六题\n");
-
+			ei_count();
 			break;
 		case 7:
 			printf("第七题\n");
-
+			salary();
 			break;
 		case 8:
 			printf("第八题\n");
-
+			salary_choice();
 			break;
 		case 9:
 			printf("第九题\n");
-
+			small_prime();
 			break;
 		case 10:
 			printf("第十题\n");
-
+			tax1988();
 			break;
 		case 11:
 			printf("第十一题\n");

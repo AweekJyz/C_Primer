@@ -1,4 +1,6 @@
 // repoChar.c -- 报告读取字符数量(包括空格)
+#include "practise.h"
+
 void repo_char(void)
 {
 	char ch;

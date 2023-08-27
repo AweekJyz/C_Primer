@@ -1,4 +1,6 @@
 // charAscii.c -- ´òÓ¡×Ö·ûºÍASCIIÂë
+#include "practise.h"
+
 void char_ascii(void)
 {
 	char ch;

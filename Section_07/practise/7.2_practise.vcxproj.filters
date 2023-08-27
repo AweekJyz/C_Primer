@@ -27,6 +27,21 @@
     <ClCompile Include="oddAverage.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="replace.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eiCount.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="salary.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="smallPrime.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tax1988.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="practise.h">

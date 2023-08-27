@@ -129,9 +129,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="charAscii.c" />
+    <ClCompile Include="eiCount.c" />
     <ClCompile Include="oddAverage.c" />
     <ClCompile Include="practise.c" />
+    <ClCompile Include="replace.c" />
     <ClCompile Include="repoChar.c" />
+    <ClCompile Include="salary.c" />
+    <ClCompile Include="smallPrime.c" />
+    <ClCompile Include="tax1988.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="practise.h" />

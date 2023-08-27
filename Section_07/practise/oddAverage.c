@@ -1,4 +1,5 @@
 // oddAverage.c -- 奇数偶数平均值
+#include "practise.h"
 
 void odd_average(void)
 {
