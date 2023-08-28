@@ -42,6 +42,9 @@
     <ClCompile Include="tax1988.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="vegetable.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="practise.h">

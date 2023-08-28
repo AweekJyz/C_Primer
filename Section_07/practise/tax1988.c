@@ -10,7 +10,7 @@ void tax1988(void)
 	printf("%s\n", STARTS);
 	printf("请选择您缴纳的税金的种类. \n");
 	printf("a) 单身		b) 户主\n");
-	printf("c) 已婚, 共有	d) 已婚, 离异\n");5''
+	printf("c) 已婚, 共有	d) 已婚, 离异\n");
 	printf("q) 退出\n");
 	printf("%s\n", STARTS);
 

@@ -9,7 +9,7 @@ void small_prime(void)
 	printf("请输入一个自然数. \n");
 	while (1 == scanf("%d", &nature))
 	{
-		for (i = 1; i <= nature; i++)//只为了2改为i++
+		for (i = 1, j = 0; i <= nature; i++)//只为了2改为i++
 		{
 			if (prime = is_prime(i))
 			{

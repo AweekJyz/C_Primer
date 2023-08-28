@@ -1,3 +1,2 @@
-﻿  tax1988.c
-D:\Aweek\Code\C\C_Primer\Section_07\practise\tax1988.c(13,50): error C2059: 语法错误:“数字上的错误后缀”
-D:\Aweek\Code\C\C_Primer\Section_07\practise\tax1988.c(14,2): error C2146: 语法错误: 缺少“;”(在标识符“printf”的前面)
+﻿  practise.c
+  7.2_practise.vcxproj -> D:\Aweek\Code\C\C_Primer\Section_07\practise\x64\Debug\practise.exe
