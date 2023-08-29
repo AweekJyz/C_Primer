@@ -1,0 +1,4 @@
+﻿  pnt_add.c
+D:\Aweek\Code\C\C_Primer\Section_10\10.8_pnt_add\pnt_add.c(10,17): warning C4101: “ptl”: 未引用的局部变量
+D:\Aweek\Code\C\C_Primer\Section_10\10.8_pnt_add\pnt_add.c(7,14): warning C4101: “ptj”: 未引用的局部变量
+  10.8_pnt_add.vcxproj -> D:\Aweek\Code\C\C_Primer\Section_10\10.8_pnt_add\x64\Debug\10.8_pnt_add.exe
