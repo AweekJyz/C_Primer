@@ -1,0 +1,19 @@
+﻿  vararr2d.c
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(5,38): error C2057: 应输入常量表达式
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(5,42): error C2466: 不能分配常量大小为 0 的数组
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(5,44): error C2057: 应输入常量表达式
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(5,48): error C2466: 不能分配常量大小为 0 的数组
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(5,35): error C2087: “ar”: 缺少下标
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(20,11): error C2057: 应输入常量表达式
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(20,13): error C2466: 不能分配常量大小为 0 的数组
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(20,15): error C2057: 应输入常量表达式
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(20,17): error C2466: 不能分配常量大小为 0 的数组
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(20,6): error C2087: “varr”: 缺少下标
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(20,6): error C2133: “varr”: 未知的大小
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(25,57): warning C4048: “int (*)[1]”和“int [3][4]”数组的下标不同
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(27,65): warning C4048: “int (*)[1]”和“int [2][6]”数组的下标不同
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(33,38): error C2057: 应输入常量表达式
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(33,42): error C2466: 不能分配常量大小为 0 的数组
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(33,44): error C2057: 应输入常量表达式
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(33,48): error C2466: 不能分配常量大小为 0 的数组
+D:\Aweek\Code\C\C_Primer\Section_10\10.18_vararr2d\vararr2d.c(33,35): error C2087: “ar”: 缺少下标

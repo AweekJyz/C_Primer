@@ -1,0 +1,3 @@
+﻿  scan_str.c
+D:\Aweek\Code\C\C_Primer\Section_11\11.11_scan_str\scan_str.c(21,11): warning C4013: “puts3”未定义；假设外部返回 int
+  11.11_scan_str.vcxproj -> D:\Aweek\Code\C\C_Primer\Section_11\11.11_scan_str\x64\Debug\11.11_scan_str.exe
