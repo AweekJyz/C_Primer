@@ -1,0 +1,5 @@
+﻿  randbin.c
+D:\Aweek\Code\C\C_Primer\Section_13\13.6_randbin\randbin.c(22,19): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+D:\Aweek\Code\C\C_Primer\Section_13\13.6_randbin\randbin.c(22,19): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\Aweek\Code\C\C_Primer\Section_13\13.6_randbin\randbin.c(22,19): message : 缺失的可变参数 1 为格式字符串“%s”所需
+  13.6_randbin.vcxproj -> D:\Aweek\Code\C\C_Primer\Section_13\13.6_randbin\x64\Debug\13.6_randbin.exe
