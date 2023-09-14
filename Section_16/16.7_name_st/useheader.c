@@ -1,6 +1,8 @@
 // useheader.c -- 使用names_st结构
 #include <stdio.h>
 #include "names_st.h"
+#include "names_st.h" //不小心第二次包含头文件, 由于#ifndef, 不会出错
+
 int main(void)
 {
 	names candidate;

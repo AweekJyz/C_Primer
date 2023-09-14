@@ -1,4 +1,6 @@
 #pragma once
+#ifndef NAMES_H
+#define NAMES_H
 //names_st.h -- names_st.c的头文件
 #include <string.h>
 #define SLEN 32
@@ -14,3 +16,4 @@ typedef struct names_st names;
 void get_names(names*);
 void show_names(const names*);
 char* s_gets(char* st, int n);
+#endif
